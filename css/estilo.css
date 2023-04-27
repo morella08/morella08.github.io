@@ -1,0 +1,77 @@
+.btn-custom{
+	font-family: 'Bebas Neue', cursive;
+	color: white;
+	font-weight: 200;
+	text-align: center;
+    border:5px solid #5DADE2;
+    border-radius: 1em;
+    background-color: #5DADE2;
+}
+.navbar {
+	background-color: #333;
+	color: #dd0a0a;
+	border: none;
+	border-radius: 0;
+}
+.navbar-brand {
+	font-size: 26px;
+	font-weight: bold;
+    color: darkblue;
+}
+.navbar-nav > li > a {
+	color: #c60c0c;
+	padding: 15px;
+}
+
+
+.col-md-4 {
+	margin-bottom: 30px;
+	text-align: center;
+}
+.col-md-4 img {
+	max-width: 100%;
+	height: auto;
+	border-radius: 5px;
+	box-shadow: 0px 0px 5px #ccc;
+}
+.col-md-4 h4 {
+	margin-top: 10px;
+	font-size: 18px;
+	font-weight: bold;
+	color: #333;
+}
+.col-md-4 {
+	margin-bottom: 30px;
+	text-align: center;
+}
+.col-md-2 img {
+	max-width: 100%;
+	height: auto;
+	border-radius: 5px;
+	box-shadow: 0px 0px 5px #ccc;
+}
+.col-md-4 h4 {
+	margin-top: 10px;
+	font-size: 18px;
+	font-weight: bold;
+	color: #333;
+}
+
+
+.footer {
+    background-color: #333;
+    color: #fff;
+    padding: 20px 0;
+    margin-top: 70px;
+  }
+  .footer p {
+    margin: 0;
+  }
+  
+.volver {
+	font-family: 'Bebas Neue', cursive;
+	background-color: #ccc;
+	color: #000;
+	border: none;
+	border-radius: 0;
+}
